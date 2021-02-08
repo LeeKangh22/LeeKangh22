@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKangh22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://LaaKangh22.github.io/)](https://LeeKangh22.github.io/)
+[![Instargram Badge](https://img.shields.io/badge/instargram-#E4405F?style=flat-square&logo=instargram&logoColor=white&link=https://www.instagram.com/eegaxxhxx/)](https://www.instagram.com/eegaxxhxx/)
