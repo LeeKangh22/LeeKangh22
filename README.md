@@ -1,7 +1,7 @@
 ### 👋Hi there, I'm Kang Hee!👋
-<p align="center">![header](https://capsule-render.vercel.app/api?type=wave&color=C8FFFF&height=300&section=header&text=KangHee'sGit&fontSize=90)</p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=C8FFFF&height=300&section=header&text=KangHee'sGit&fontSize=90)
 
-<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKangh22&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKangh22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKangh22&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKangh22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
 <h2><p align="center">🧑‍💻Tech Stack🧑‍💻</p></h2>
 <div align="center">
