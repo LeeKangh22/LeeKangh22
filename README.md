@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-
+<img src="https://img.shields.io/badge/Python-1478CD?style=for-the-badge&logo=Python&logoColor=white">
 ### Reach me
 <a href="https://www.instagram.com/eegaxxhxx/"><img src="https://img.shields.io/badge/Instargram-FFAFFA?style=flat-square&logo=Instagram&logoColor=white&link=내링크"/></a>
 <a href="https://velog.io/@eegaxxhxx"><img src="https://img.shields.io/badge/Velog-82F9B7?style=flat-square&logo=Vimeo&logoColor=white&link=내링크"/></a>
