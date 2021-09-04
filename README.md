@@ -14,6 +14,6 @@
 ### Reach me
 <a href="https://www.instagram.com/eegaxxhxx/"><img src="https://img.shields.io/badge/Instargram-FFAFFA?style=flat-square&logo=Instagram&logoColor=white&link=내링크"/></a>
 <a href="https://velog.io/@eegaxxhxx"><img src="https://img.shields.io/badge/Velog-82F9B7?style=flat-square&logo=Vimeo&logoColor=white&link=내링크"/></a>
-<a href="https://github.com/LeeKangh22"><img src="https://img.shields.io/badge/GitHub-82F9B7?style=flat-square&logo=GitHub&logoColor=white&link=내링크"/></a>
+<a href="https://github.com/LeeKangh22"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white&link=내링크"/></a>
 
 
