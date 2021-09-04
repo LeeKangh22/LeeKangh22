@@ -1,8 +1,8 @@
 ### 👋Hi there, I'm Kang Hee!👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=C8FFFF&height=300&section=header&text=KangHee'sGit&fontSize=90)
+<p align="center">![header](https://capsule-render.vercel.app/api?type=wave&color=C8FFFF&height=300&section=header&text=KangHee'sGit&fontSize=90)</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKangh22&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKangh22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
+<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKangh22&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKangh22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
+<br><br><br>
 <h2><p align="center">🧑‍💻Tech Stack🧑‍💻</p></h2>
 <div align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
