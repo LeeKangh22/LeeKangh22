@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
-<a href="https://www.instagram.com/eegaxxhxx/"><img src="https://img.shields.io/badge/Instargram-FFAFFA?style=flat-square&logo=instargram&logoColor=white&link=내링크"/></a>&nbsp
+<a href="https://www.instagram.com/eegaxxhxx/"><img src="https://img.shields.io/badge/Instargram-FFAFFA?style=flat-square&logo=Instagram&logoColor=white&link=내링크"/></a>&nbsp
 <a href="https://www.instagram.com/eegaxxhxx/">instargram_eegaxxhxx<a/><br>
 <a href="https://velog.io/@eegaxxhxx">velog_eegaxxhxx<a/>
 
