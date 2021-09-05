@@ -5,6 +5,7 @@
 - 🌱 am currently learning IoT, Server, Algorithm
 - 🥇 majoring in Computer Science Engineering
 - 🚅 living in Ilsan, Goyang, Gyeonggi-do in Korea
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKangh22&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKangh22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
