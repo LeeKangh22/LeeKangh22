@@ -1,10 +1,10 @@
-<h1><p align="center">👋Hi there, I'm Kang Hee!👋</p></h1>
 ![header](https://capsule-render.vercel.app/api?type=wave&color=C8FFFF&height=300&section=header&text=KangHee'sGit&fontSize=90)
+<h1><p align="center">👋Hi there, I'm Kang Hee!👋</p></h1>
 
-### I
+### I am
 - 🌱 am currently learning IoT, Server, Algorithm
-- 🥇 majored in Computer Science Engineering
-- 🚅 live in Ilsan, Goyang, Gyeonggi-do in Korea
+- 🥇 majoring in Computer Science Engineering
+- 🚅 living in Ilsan, Goyang, Gyeonggi-do in Korea
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKangh22&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKangh22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
