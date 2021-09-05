@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/Python-1478CD?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-FFBBC6?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/C++-9696FF?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 </div>
 <br><br><br><br>
 <h2><p align="center">👉Reach me👈</p></h2><br><br>
