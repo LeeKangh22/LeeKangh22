@@ -7,6 +7,14 @@
 - 🚅 living in Ilsan, Goyang, Gyeonggi-do in Korea
 <br><br>
 
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+
+  </td>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKangh22&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKangh22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
 <h2><p align="center">🧑‍💻Tech Stack🧑‍💻</p></h2><br><br>
