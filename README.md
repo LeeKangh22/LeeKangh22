@@ -2,8 +2,8 @@
 <h1><p align="center">👋Hi there, I'm Kang Hee!👋</p></h1>
 
 ### I am
-- 🌱 am currently learning IoT, Server, Algorithm
-- 🥇 majoring in Computer Science Engineering
+- 🌱 currently learning IoT, Server, Algorithm
+- 🥇 majoring in Computer Science Engineering, Dongguk Univ.
 - 🚅 living in Ilsan, Goyang, Gyeonggi-do in Korea
 <br><br>
 
