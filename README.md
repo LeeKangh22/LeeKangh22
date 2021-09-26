@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=AAB9FF&height=300&section=header&text=KangHee'sGit&fontSize=90)
 <h1><p align="center">👋Hi there, I'm Kang Hee!👋</p></h1>
 
+
 ### I am
 - 🌱 currently learning IoT, Server, Algorithm
 - 🥇 majoring in Computer Science Engineering, Dongguk Univ.
