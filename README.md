@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=AAB9FF&height=300&section=header&text=KangHee'sGit&fontSize=90)
-<h1><p align="center">👋Kang Hee's Git👋</p></h1>
+<h1><p align="center">👋Hi👋</p></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKangh22&theme=tokyonight&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKangh22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
