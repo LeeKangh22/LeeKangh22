@@ -19,7 +19,7 @@
 <br><br><br><br>
 <h2><p align="center">👉Reach me👈</p></h2><br>
 <div align="center">
-<a href="https://www.instagram.com/eegaxxhxx/"><img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=내링크"/></a>
+<a href="https://www.instagram.com/eekvnhee/"><img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=내링크"/></a>
 <a href="https://velog.io/@eegaxxhxx"><img src="https://img.shields.io/badge/Velog-82F9B7?style=flat-square&logo=Vimeo&logoColor=white&link=내링크"/></a>
 <a href="https://github.com/LeeKangh22"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=내링크"/></a>
 <a href="dlrkdgml1998@dgu.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=내링크"/></a>
